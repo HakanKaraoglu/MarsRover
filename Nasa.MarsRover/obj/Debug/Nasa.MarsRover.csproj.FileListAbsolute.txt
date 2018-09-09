@@ -1,0 +1,4 @@
+C:\Users\hkaraoglu\Documents\Visual Studio 2015\Projects\MarsRover\Nasa.MarsRover\bin\Debug\Nasa.MarsRover.dll
+C:\Users\hkaraoglu\Documents\Visual Studio 2015\Projects\MarsRover\Nasa.MarsRover\bin\Debug\Nasa.MarsRover.pdb
+C:\Users\hkaraoglu\Documents\Visual Studio 2015\Projects\MarsRover\Nasa.MarsRover\obj\Debug\Nasa.MarsRover.dll
+C:\Users\hkaraoglu\Documents\Visual Studio 2015\Projects\MarsRover\Nasa.MarsRover\obj\Debug\Nasa.MarsRover.pdb
